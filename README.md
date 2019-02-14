@@ -2,7 +2,7 @@
 Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat al Disseny Gràfic
 ## Cinema4d i edició 2d.
 
-* [Pràctiques]
+* [Pràctiques](Practiques.md)
 
 ### Recursos.
 * [thingiverse](https://www.thingiverse.com/)
