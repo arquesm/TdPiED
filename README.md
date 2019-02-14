@@ -1,6 +1,6 @@
 # TdPiED
 Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat al Disseny Gràfic
-## Cinema4d i edició 2d.
+## Edició 3d i 2d.
 
 * [Pràctiques](Practiques.md)
 
