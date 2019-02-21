@@ -15,3 +15,14 @@ Elaboració d'un bodegó clàssic utilitzant les figures primitives del 3d al ci
 Elaboració d'un bodegó amb figures 3d ja modelades i organització d'aquests elements en un escenari ja preparat.
 ### Materials.
 [Escenari 3d](p2_escenari_elements3d.zip)
+
+# p3
+### Proposta.
+Realitzar un totem a partir d'un esbós. Utilitzarem formes bàsiques i aquestes les deformarem utilitzant els seus plànols, cantos i vertex. 
+
+### Continguts.
+* Punts, aristes i plànols.
+* Enllaçar imatge de fons en la llista frontal.
+* Organitzar les formes com un conjunt.
+* Utilitzar el objecte null. alt + g. per agrupar
+
