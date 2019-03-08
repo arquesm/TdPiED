@@ -14,6 +14,7 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 #### Escàner 3d
 * [Scanner 123d Catch Autodesk](https://www.autodesk.com/solutions/123d-apps)
 * [Scann3d android](https://play.google.com/store/apps/details?id=com.smartmobilevision.scann3d&hl=es)
+* [Agisoft Scan](https://www.agisoft.com/)
 
 ### Classe.
 
