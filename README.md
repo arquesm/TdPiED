@@ -5,11 +5,13 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 * [Pràctiques](Practiques.md)
 
 ### Recursos.
-#### Fons 3d
+#### Fonts 3d
 * [thingiverse](https://www.thingiverse.com/)
 * [free3d](https://free3d.com/)
 * [c4dModels](https://c4dsource.wordpress.com/category/c4d-models/)
 * [Thepixellab](https://www.thepixellab.net/freebies/)
+* [Cgtrader](https://www.cgtrader.com/)
+* [Archive3d](https://archive3d.net)
 
 #### Escàner 3d
 * [Scanner 123d Catch Autodesk](https://www.autodesk.com/solutions/123d-apps)
