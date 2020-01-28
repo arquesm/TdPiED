@@ -18,7 +18,7 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 * [Scann3d android](https://play.google.com/store/apps/details?id=com.smartmobilevision.scann3d&hl=es)
 * [Agisoft Scan](https://www.agisoft.com/)
 
-### Classe.
+### Classe1819
 
 * [Isa LLedó](https://github.com/isalledoamat/TdPiED)
 * [Sara Marín](https://github.com/smarinf/TdPiED)
