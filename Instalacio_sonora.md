@@ -10,5 +10,6 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 * Crear arquitectures efímeres en espais performatius.
 
 ## Referents
-* Rie Nakajima
-
+### Rie Nakajima
+* [In conversation with Rie Nakajima] (https://www.youtube.com/watch?v=hIFK6LrmHww), 2018
+* [Cyclic] (https://www.rienakajima.com/_work/_installations/Cyclic.html)
