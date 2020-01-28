@@ -2,6 +2,7 @@
 Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat al Disseny Gràfic
 ## Edició 3d i 2d.
 
+* [Instal·lació sonora](Instalacio_sonora.md)
 * [Pràctiques](Practiques.md)
 
 ### Recursos.
