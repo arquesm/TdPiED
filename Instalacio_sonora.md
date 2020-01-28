@@ -13,3 +13,18 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 ### Rie Nakajima
 * [In conversation with Rie Nakajima](https://www.youtube.com/watch?v=hIFK6LrmHww), 2018
 * [IKON Gallery, Birmingham](https://www.rienakajima.com/_work/_installations/Cyclic.html), 2018
+* [Wind Touch](https://www.rienakajima.com/_work/_installations/WindTouch.html), 2016
+* [Becoming sounds](https://www.rienakajima.com/_work/_installations/becoming%20sounds.html), 2015
+* [Fall](http://www.noshowspace.com/projects/fall.html), 2014
+
+## Calendari
+### 1_ Presentació projecte
+### 2_ Exposició d'anàlisis de propostes | Anàlisis dels materials en un mural comú | Material
+#### Material
+  * Elements reciclatge 
+  * portapiles de 3V i 6V
+  * Motor 3V a 6V
+  * Interruptor
+### 3_ Taller
+### 4_ Taller
+### 5_ Muntatge. Gravació i edició
