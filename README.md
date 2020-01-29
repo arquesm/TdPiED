@@ -21,10 +21,4 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 
 ### Classe1819
 
-[Isa LLedó](https://github.com/isalledoamat/TdPiED) - [Sara Marín](https://github.com/smarinf/TdPiED) - [Alba Llidó](https://github.com/AlbaLlido10/TdPieED) - [Laura Colomo](https://github.com/LauraColomoSantonja/TdPiED) - [Sergio Riquelme](https://github.com/Sergiori) - [Jordi Català](https://github.com/CatalaJordi/TdPoED) - [Josep Rovira](https://github.com/Joseprm/TdPiED) - [Rafael Gordillo](https://github.com/Gordillosantos) - [Loreto Sala](https://github.com/LoretoSala/TdPIED)
-* [Bàrbara Martí](https://github.com/bamarpe/TcPiED)
-* [Julio Guillem](https://github.com/julioguillem)
-* [Jorge Balaguer](https://github.com/jorgebalaguerestevan)
-* [Abel Flores](https://github.com/abel91)
-* [Quico Climent](https://github.com/climentquico)
-* [Rebeca Jordà](https://github.com/rebecajord/TdPiED)
+[Isa LLedó](https://github.com/isalledoamat/TdPiED) - [Sara Marín](https://github.com/smarinf/TdPiED) - [Alba Llidó](https://github.com/AlbaLlido10/TdPieED) - [Laura Colomo](https://github.com/LauraColomoSantonja/TdPiED) - [Sergio Riquelme](https://github.com/Sergiori) - [Jordi Català](https://github.com/CatalaJordi/TdPoED) - [Josep Rovira](https://github.com/Joseprm/TdPiED) - [Rafael Gordillo](https://github.com/Gordillosantos) - [Loreto Sala](https://github.com/LoretoSala/TdPIED) - [Bàrbara Martí](https://github.com/bamarpe/TcPiED) - [Julio Guillem](https://github.com/julioguillem) - [Jorge Balaguer](https://github.com/jorgebalaguerestevan) - [Abel Flores](https://github.com/abel91) - [Quico Climent](https://github.com/climentquico) - [Rebeca Jordà](https://github.com/rebecajord/TdPiED)
