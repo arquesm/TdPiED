@@ -31,6 +31,7 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 * Rebeca i Cristina
 * Clara i Andrea
 * Jordi i Clara
+* Paqui i Lucia
 
 ### 2_ Exposició d'anàlisis de propostes | Anàlisis dels materials en un mural comú | Material
 #### Material
