@@ -19,19 +19,19 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 
 ## Calendari
 ### 1_ Presentació projecte
-* India i kiko
-* Rocío i Rafa
-* Carla i Juan
-* Angel i Omar
-* Sofia i Natalia
-* Marina i Sílvia
-* Claudia i Utku
-* Aina i Sergio
-* Rodrigo i Elena
-* Rebeca i Cristina
-* Clara i Andrea
-* Jordi i Clara
-* Paqui i Lucia
+* India i kiko 1
+* Rocío i Rafa 2
+* Carla i Juan 3
+* Angel i Omar 4
+* Sofia i Natalia 5
+* Marina i Sílvia 1
+* Claudia i Utku 2
+* Aina i Sergio 3
+* Rodrigo i Elena 4
+* Rebeca i Cristina 5
+* Clara i Andrea 1
+* Jordi i Clara 2
+* Paqui i Lucia 3
 
 ### 2_ Exposició d'anàlisis de propostes | Anàlisis dels materials en un mural comú | Material
 #### Material
