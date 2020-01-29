@@ -21,8 +21,7 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 
 ### Classe1819
 
-* [Isa LLedó](https://github.com/isalledoamat/TdPiED)
-* [Sara Marín](https://github.com/smarinf/TdPiED)
+[Isa LLedó](https://github.com/isalledoamat/TdPiED) - [Sara Marín](https://github.com/smarinf/TdPiED)
 * [Alba Llidó](https://github.com/AlbaLlido10/TdPieED)
 * [Laura Colomo](https://github.com/LauraColomoSantonja/TdPiED)
 * [Sergio Riquelme](https://github.com/Sergiori)
