@@ -1,6 +1,6 @@
 # Instal·lació sonora Ecoembes.
 ## Descripció
-Una instal·lació sonora i performativa a partir de la utilització dels envasos d'Ecoembes. Proposem una arquitectura efímera instal·lativa, proposada per un espai interior, utilitzant els productes d'Ecoembes com peces centrals junt amb els motor, sistemes electrònics bàsics, sistemes electrònics reciclats per generar so i moviment.
+Una instal·lació sonora i performativa a partir de la utilització dels envasos d'Ecoembes. Proposem una arquitectura efímera instal·lativa, proposada per un espai interior, utilitzant els productes d'Ecoembes com peces centrals junt amb els motors, sistemes electrònics bàsics, sistemes electrònics reciclats per generar so i moviment.
 
 ## Objectius
 * Reforçar la marca Ecoembes a partir del desenvolupament d'una imatge creativa de marca d'empresa.
