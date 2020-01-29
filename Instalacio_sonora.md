@@ -6,7 +6,7 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 * Reforçar la marca Ecoembes a partir del desenvolupament d'una imatge creativa de marca d'empresa.
 * Aplicar la creativitat a la presentació dels productes d'Ecoembes.
 * Donar valor a l'empresa com a model d'empres que recolza a ala creació i la genera.
-* Establir vincles entre l'ar ie l disseny.
+* Establir vincles entre l'art i el disseny.
 * Crear arquitectures efímeres en espais performatius.
 
 ## Referents
