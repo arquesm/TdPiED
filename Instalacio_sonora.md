@@ -32,6 +32,7 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 * Clara i Andrea 1
 * Jordi i Clara 2
 * Paqui i Lucia 3
+* Patri i Eva 4
 
 ### 2_ Exposició d'anàlisis de propostes | Anàlisis dels materials en un mural comú | Material
 #### 1 Per parelles. 2 Després per grups que treballen amb el mateix projecte. 3 Exposició. 4 Mural comú.
