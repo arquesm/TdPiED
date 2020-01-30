@@ -20,7 +20,29 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 * [Agisoft Scan](https://www.agisoft.com/)
 
 ### Classe 19/20
-
+* [Torrecillas, Marina](http://github.com/Minitowers)
+* [Jerez, Claudia](http://github.com/claudietajerez)
+* [Valero, Paqui](http://github.com/paquivj)
+* [Martínez, Lucía](http://github.com/luciaml10)
+* [Miró, Sergio](http://github.com/sergiomirobernabeu)
+* [Abad, Carla](http://github.com/carlabad)
+* [Fernández, Angel](http://github.com/angelfernandez365)
+* [Martínez, Juan](http://github.com/juanmgandia)
+* [García, Clara](http://github.com/claragarciam)
+* [Giménez, Omar](http://github.com/omarufo)
+* [Baldó, Natalia](http://github.com/nataliabaldogarcia)
+* [Pérez, Clara](http://github.com/claraperezmartinez)
+* [Sánchez, Patri](http://github.com/patrisanchez)
+* [Molines, Aina](http://github.com/ainamolines)
+* [Jordà, Rebeca](http://github.com/rebecajord)
+* [Gisbert, India](http://github.com/India7)
+* [Navalón, Cristina](http://github.com/cristinaNB)
+* [Escolano, Sofía](http://github.com/Sofiaescolano99)
+* [Utku](http://github.com/utkuozenc)
+* [Gordillo, Rafael](http://github.com/gordillosantos)
+* [Garzo, Sílvia](http://github.com/)
+* [Morant, Elena](http://github.com/elenamorant)
+* [Ágredas, Andrea](http://github.com/agredas)
 
 ### Classe 18/19
 
