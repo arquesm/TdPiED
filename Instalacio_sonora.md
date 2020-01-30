@@ -34,6 +34,9 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 * Paqui i Lucia 3
 
 ### 2_ Exposició d'anàlisis de propostes | Anàlisis dels materials en un mural comú | Material
+#### 1 Per parelles. 2 Després per grups que treballen amb el mateix projecte. 3 Exposició. 4 Mural comú.
+* Realitzar un esquema: organització per categories.
+* Objectiu: conèixer els materials que utilitza.
 #### Material
   * Elements reciclatge 
   * portapiles de 3V i 6V
