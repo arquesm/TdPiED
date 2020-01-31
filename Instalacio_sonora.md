@@ -44,5 +44,17 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
   * Motor 3V a 6V
   * Interruptor
 ### 3_ Taller
+  * Agrupació del material en zones i organització.
+  * Responsables de material: Haurán de fer un Inventari. Llistat de les ferramentes i material que hi ha. 
+  * Responsables de documentació. Documentació gràfica del treball del grup. Haurà de recopilar la documentació utilitzada per desenvolupar l'activitat referents, webgrafia, bibliografia. Publicar-la al github.
+  * Responsable organització. Neteja i disposició dels elements al lloc.
+  * Presentació de ferramentes.
+  * Treball per grups.
 ### 4_ Taller
+  * Posada en comú del procés de treball en el dia anterior.
+  * Treball per grups.
 ### 5_ Muntatge. Gravació i edició
+  * Muntatge del projecte a l'espai.
+  * Editors, gravadors i muntadors.
+  * Grafistes.
+### 6_ Presentació i posada en comú.
