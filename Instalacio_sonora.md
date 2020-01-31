@@ -17,6 +17,12 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 * [Becoming sounds](https://www.rienakajima.com/_work/_installations/becoming%20sounds.html), 2015
 * [Fall](http://www.noshowspace.com/projects/fall.html), 2014
 
+## Material
+### Material electrònic.
+  * portapiles de 3V i 6V
+  * Motor 3V a 6V
+  * Interruptor
+
 ## Calendari
 ### 1_ Presentació projecte
 * India i kiko 1
@@ -38,11 +44,7 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 #### 1 Per parelles. 2 Després per grups que treballen amb el mateix projecte. 3 Exposició. 4 Mural comú.
 * Realitzar un esquema: organització per categories.
 * Objectiu: conèixer els materials que utilitza.
-#### Material
-  * Elements reciclatge 
-  * portapiles de 3V i 6V
-  * Motor 3V a 6V
-  * Interruptor
+
 ### 3_ Taller
   * Agrupació del material en zones i organització.
   * Responsables de material: Haurán de fer un Inventari. Llistat de les ferramentes i material que hi ha. 
@@ -50,11 +52,14 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
   * Responsable organització. Neteja i disposició dels elements al lloc.
   * Presentació de ferramentes.
   * Treball per grups.
+  
 ### 4_ Taller
   * Posada en comú del procés de treball en el dia anterior.
   * Treball per grups.
+  
 ### 5_ Muntatge. Gravació i edició
   * Muntatge del projecte a l'espai.
   * Editors, gravadors i muntadors.
   * Grafistes.
+  
 ### 6_ Presentació i posada en comú.
