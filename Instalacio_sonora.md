@@ -19,9 +19,17 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 
 ## Material
 ### Material electrònic.
-  * portapiles de 3V i 6V
+  * Portapiles de 3V i 6V
+  * Piles
   * Motor 3V a 6V
-  * Interruptor
+  * [Cable](https://es.wikipedia.org/wiki/Cable)
+  * [Interruptor](https://es.wikipedia.org/wiki/Interruptor)
+### Material auxiliar electrònic.
+  * [Tub termoretràctil](https://es.wikipedia.org/wiki/Tubo_termorretr%C3%A1ctil)
+  * Soldador
+  * Estany
+  * Destornilladors
+  * Secador
 
 ## Calendari
 ### 1_ Presentació projecte
