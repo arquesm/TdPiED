@@ -56,9 +56,36 @@ Una instal·lació sonora i performativa a partir de la utilització dels envaso
 ### 3_ Taller
   * Agrupació del material en zones i organització.
   * Responsables de material: Haurán de fer un Inventari. Llistat de les ferramentes i material que hi ha. 
+  
+  - Omar
+  
   * Responsables de documentació. Documentació gràfica del treball del grup. Haurà de recopilar la documentació utilitzada per desenvolupar l'activitat referents, webgrafia, bibliografia. Publicar-la al github.
+  
+  - Cristina
+  
+  - Sílvia
+  
+  - Elena
+  
+  - Aina
+  
+ 
   * Responsable organització. Neteja i disposició dels elements al lloc.
-  * Presentació de ferramentes.
+  
+  - Claudia
+  
+  - Paqui
+  
+  - Sergio
+  
+  - Juan
+  
+  - Sofía
+  
+  * Presentació de ferramentes 
+  
+  - Rafa Gordillo
+  
   * Treball per grups.
   
 ### 4_ Taller
