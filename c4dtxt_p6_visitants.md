@@ -18,14 +18,26 @@
 
 
 gener: gen.
+
 febrer: febr.
+
 març: no s'abreuja
+
 abril: abr.
+
 maig: no s'abreuja
+
 juny: no s'abreuja
+
 juliol: jul.
+
 agost: ag.
+
 setembre: set.
+
 octubre: oct.
+
 novembre: nov.
+
 desembre: des.
+
