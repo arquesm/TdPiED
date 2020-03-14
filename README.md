@@ -3,7 +3,7 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 ## Edició 3d i 2d.
 
 * [Instal·lació sonora](Instalacio_sonora.md)
-* [Pràctiques](Practiques.md)
+* [Pràctiques](practiques1920.md)
 
 ### Recursos.
 #### Fonts 3d
