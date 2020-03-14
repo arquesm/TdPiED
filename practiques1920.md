@@ -20,7 +20,9 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 ## p6
 
-Realitzant un mupi anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi.
+Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi.
+
+Tamany: 1080 x 1920
 
 Referent. [Mario Cano, Festival de Jazz Madrid, 2018](https://www.instagram.com/p/BpR1XPPFdwF/)
 
