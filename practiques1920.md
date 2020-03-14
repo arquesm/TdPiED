@@ -24,4 +24,4 @@ Realitzant un mupi anunciant els ponents que han vingut al llarg del 2019/20 a l
 
 Referent. [Mario Cano, Festival de Jazz Madrid, 2018](https://www.instagram.com/p/BpR1XPPFdwF/)
 
-[Llistat dels noms]() i la data, busqueu-la a la www de l'EASDAlcoi i/o a les xxss.
+[Llistat dels noms](p6_txt.md) i la data, busqueu-la a la www de l'EASDAlcoi i/o a les xxss.
