@@ -24,6 +24,7 @@ Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019
 
 Tamany: 1080 x 1920
 
+Text del mupi: [Llistat dels noms](p6_txt.md) i la data, busqueu-la a la www de l'EASDAlcoi i/o a les xxss.
+
 Referent. [Mario Cano, Festival de Jazz Madrid, 2018](https://www.instagram.com/p/BpR1XPPFdwF/)
 
-Text del mupi: [Llistat dels noms](p6_txt.md) i la data, busqueu-la a la www de l'EASDAlcoi i/o a les xxss.
