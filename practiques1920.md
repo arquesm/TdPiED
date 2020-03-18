@@ -28,3 +28,5 @@ Text del mupi: [Llistat dels noms](p6_txt.md).
 
 Referent. [Mario Cano, Festival de Jazz Madrid, 2018](https://www.instagram.com/p/BpR1XPPFdwF/)
 
+Per saber més entrevista a [Mario Cano amb referents](http://etsididesign.com/entrevista-mario-cano/)
+
