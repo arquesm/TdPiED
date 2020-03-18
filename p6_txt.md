@@ -14,6 +14,11 @@
 * Rosana Antolí, Lucía Martínez
 * Ilan Wolf, Marina Torrecillas
 * Vadebó, Silvia Garzó
+* Vicente Blasco, Natalia Baldó
+* Gandia Blasco, Jordi Català
+* Mikel Ponce, Omar Gimenez
+* Conchi Sarabia, Carla Abad
+* Pep Carrió, Clara García
 
 
 
