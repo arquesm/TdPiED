@@ -30,3 +30,5 @@ Referent. [Mario Cano, Festival de Jazz Madrid, 2018](https://www.instagram.com/
 
 Per saber més entrevista a [Mario Cano amb referents](http://etsididesign.com/entrevista-mario-cano/)
 
+[Material de tot el projecte](p6_dos.zip)
+
