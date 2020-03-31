@@ -32,3 +32,8 @@ Per saber més entrevista a [Mario Cano amb referents](http://etsididesign.com/e
 
 [Material de tot el projecte](p6_dos.zip)
 
+## p7
+
+Refereng. [Mario Cano. Blanc Fest](https://www.instagram.com/p/BwoQSmJo28B/)
+
+[Disseny]()
