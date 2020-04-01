@@ -48,6 +48,7 @@ Refereng. [Mario Cano. Blanc Fest](https://www.instagram.com/p/BwoQSmJo28B/)
 
 #### Objectes 3d
 * [thingiverse](https://www.thingiverse.com/)
+* [turbosquid](https://www.turbosquid.com/)
 * [free3d](https://free3d.com/)
 * [sketchfab](https://sketchfab.com/)
 * [c4dModels](https://c4dsource.wordpress.com/category/c4d-models/)
