@@ -46,6 +46,20 @@ Refereng. [Mario Cano. Blanc Fest](https://www.instagram.com/p/BwoQSmJo28B/)
 
 ## p9
 
+#### Objectes 3d
+* [thingiverse](https://www.thingiverse.com/)
+* [free3d](https://free3d.com/)
+* [c4dModels](https://c4dsource.wordpress.com/category/c4d-models/)
+* [Thepixellab](https://www.thepixellab.net/freebies/)
+* [Cgtrader](https://www.cgtrader.com/)
+* [Archive3d](https://archive3d.net)
+
+#### Escàner 3d
+* [Scanner 123d Catch Autodesk](https://www.autodesk.com/solutions/123d-apps)
+* [Scann3d android](https://play.google.com/store/apps/details?id=com.smartmobilevision.scann3d&hl=es)
+* [Agisoft Scan](https://www.agisoft.com/)
+
+## p10
 Referents. 
 
 [Peter Tarka](https://www.petertarka.com/)
