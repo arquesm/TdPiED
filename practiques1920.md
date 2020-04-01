@@ -60,7 +60,16 @@ Refereng. [Mario Cano. Blanc Fest](https://www.instagram.com/p/BwoQSmJo28B/)
 * [Scann3d android](https://play.google.com/store/apps/details?id=com.smartmobilevision.scann3d&hl=es)
 * [Agisoft Scan](https://www.agisoft.com/)
 
-## p10
+Elements per a descarregar per a la classe.
+[Escenari](Escenari.c4d)
+[Plantes](vegetable.zip)
+[Pedres](pedres.zip)
+[Ordinador](ordinador.zip)
+[Penelope_esculptura](https://drive.google.com/file/d/1cTReK1PVxHmSPvkEofy7juAQLuu7d6Od/view?usp=sharing)
+[Thorne_esculptura](https://drive.google.com/open?id=1cTReK1PVxHmSPvkEofy7juAQLuu7d6Od)
+
+
+## p11
 Referents. 
 
 [Peter Tarka](https://www.petertarka.com/)
