@@ -46,6 +46,10 @@ Refereng. [Mario Cano. Blanc Fest](https://www.instagram.com/p/BwoQSmJo28B/)
 
 ## p9
 
-Referent. 
+Referents. 
+
 [Peter Tarka](https://www.petertarka.com/)
+
 [SerialCut](https://serialcut.com/work/paraiso-ii/)
+
+
