@@ -37,3 +37,5 @@ Per saber més entrevista a [Mario Cano amb referents](http://etsididesign.com/e
 Refereng. [Mario Cano. Blanc Fest](https://www.instagram.com/p/BwoQSmJo28B/)
 
 [Disseny](p7_disseny.zip)
+
+[Títols de crèdit. Blanc Festival, 2018](https://www.youtube.com/watch?v=468taZ3lIx4), [Motiongtaphcis Gerard Mallandrich](https://mallandrich.com/)
