@@ -63,7 +63,7 @@ Refereng. [Mario Cano. Blanc Fest](https://www.instagram.com/p/BwoQSmJo28B/)
 
 Elements per a descarregar per a la classe.
 
-[Escenari](Escenari.c4d)
+[Escenari](Escenari.c4d) - [p9_escenari_exemple_renderitzat](p9_escenari.jpg)
 
 [Plantes](vegetable.zip)
 
