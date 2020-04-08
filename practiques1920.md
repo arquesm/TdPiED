@@ -78,17 +78,16 @@ Elements per a descarregar per a la classe.
 
 ## p11
 
-Referents. 
+Referents visuals. 
 
 [Peter Tarka](https://www.petertarka.com/)
 
 [SerialCut](https://serialcut.com/work/paraiso-ii/)
 
-
-## p12
-
-Referent.
+Referent a partir del qual treballarem.
 
 [Lissitzky](https://monoskop.org/El_Lissitzky), [proun num1](https://monoskop.org/El_Lissitzky#mediaviewer/File:Lissitzky_El_Proun_1.jpg)
 
 [paleta de colors - coolors](https://coolors.co/browser/latest/1)
+
+
