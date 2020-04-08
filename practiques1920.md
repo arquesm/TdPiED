@@ -76,7 +76,7 @@ Elements per a descarregar per a la classe.
 [Thorne_esculptura](https://drive.google.com/open?id=1cTReK1PVxHmSPvkEofy7juAQLuu7d6Od)
 
 
-## p11
+## p10
 
 Referents visuals. 
 
