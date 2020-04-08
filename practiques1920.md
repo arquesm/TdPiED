@@ -85,3 +85,8 @@ Referents.
 [SerialCut](https://serialcut.com/work/paraiso-ii/)
 
 
+## p12
+
+Referent.
+
+[Lissitzky](https://monoskop.org/El_Lissitzky), [proun num1](https://monoskop.org/El_Lissitzky#mediaviewer/File:Lissitzky_El_Proun_1.jpg)
