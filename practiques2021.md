@@ -1,50 +1,24 @@
-## p1
+## p1 Rodet en text
 
-Rodet en text. [''Quan tu vas ella torna''](p1.gif)
+ [''Quan tu vas ella torna''](p1.gif)
 
-## p2
+## p2 Text extruit amb forma d'ona.
 
-Text extruit amb forma dona. [''Llebeig''](p2.gif)
+[''Llebeig''](p2.gif)
 
-## p3
-
-Text amb rotació. [''volta''](p3.gif)
-
-## p4
-
-Textures aplicades al moviment de [''full de paper''](p4.gif).
-
-## p5
+## p3 Aplicació de materials en les cares del cub
 
 Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és no''](p5.gif), [mòdul](p5_modul.gif)
 
-## p6
+## p4 Animació full de paper.
 
-Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi.
+Textures aplicades al moviment de [''full de paper''](p4.gif).
 
-Tamany: 1080 x 1920
-
-Text del mupi: [Llistat dels noms](p6_txt.md).
-
-Referent. [Mario Cano, Festival de Jazz Madrid, 2018](https://www.instagram.com/p/BpR1XPPFdwF/)
-
-Per saber més entrevista a [Mario Cano amb referents](http://etsididesign.com/entrevista-mario-cano/)
-
-[Material de tot el projecte](p6_dos.zip)
-
-## p7
+## p5 Vortex
 
 [Vortex](p7.gif)
 
-## p8
-
-Refereng. [Mario Cano. Blanc Fest](https://www.instagram.com/p/BwoQSmJo28B/)
-
-[Disseny](p7_disseny.zip)
-
-[Títols de crèdit. Blanc Festival, 2018](https://www.youtube.com/watch?v=468taZ3lIx4), [Motiongtaphcis Gerard Mallandrich](https://mallandrich.com/)
-
-## p9
+## p6 Escenari
 
 #### Objectes 3d
 * [thingiverse](https://www.thingiverse.com/)
@@ -76,18 +50,5 @@ Elements per a descarregar per a la classe.
 [Thorne_esculptura](https://drive.google.com/open?id=1cTReK1PVxHmSPvkEofy7juAQLuu7d6Od)
 
 
-## p10
-
-Referents visuals. 
-
-[Peter Tarka](https://www.petertarka.com/)
-
-[SerialCut](https://serialcut.com/work/paraiso-ii/)
-
-Referent a partir del qual treballarem.
-
-[Lissitzky](https://monoskop.org/El_Lissitzky), [proun num1](https://monoskop.org/El_Lissitzky#mediaviewer/File:Lissitzky_El_Proun_1.jpg)
-
-[paleta de colors - coolors](https://coolors.co/browser/latest/1)
 
 
